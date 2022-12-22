@@ -3,7 +3,7 @@
 This project demonstrates cross-chain nft minting using LayerZero.
 
 <p align="center">
-  <img width='600' src="./diagram/crosschain-nft-minting.png">
+  <img width='800' src="./diagram/crosschain-nft-minting.png">
 </p>
 
 
