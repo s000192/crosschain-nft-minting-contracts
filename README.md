@@ -2,7 +2,15 @@
 
 This project demonstrates cross-chain nft minting using LayerZero.
 
-# Crossmint.sol
+<p align="center">
+  <img width='600' src="./diagram/crosschain-nft-minting.png">
+</p>
+
+
+## Demo Link 🔗
+https://crosschain-nft-minting-frontend.vercel.app/
+
+## Crossmint.sol
 
 1. Deploy ERC20Mock, PaymentGateway, CrossmintNFT:
 
